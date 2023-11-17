@@ -1,0 +1,12 @@
+Project name
+Caviar
+Project ID 
+caviar-e6d3e
+Project number 
+591734203575
+Default GCP resource location 
+Not yet selected
+Parent org/folder in GCP
+code.edu.az
+Web API Key
+AIzaSyCCce5OF1W_hmt3JJUf70ouJSJG6jP0dRY
